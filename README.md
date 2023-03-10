@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ramsés Ramírez Vallejo</h1>
 <h3 align="center">A passionate web developer from México</h3>
 
-<img aling="right" alt="coding-gif" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNiM2FlNjZjYzljY2E5MzAxZmIzY2Y0NTczYjNlODljZWNiMjJlMCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=housecham&label=Profile%20views&color=0e75b6&style=flat" alt="housecham" /> </p>
 
 - 🔭 I’m currently working on [Bookings](https://github.com/HouseCham/bookings)
