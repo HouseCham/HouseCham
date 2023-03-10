@@ -9,19 +9,19 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HouseCham?tab=repositories](https://github.com/HouseCham?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/HouseCham?tab=repositories)
 
 - 💬 Ask me about **ASP.Net, Angular and Golang**
 
 - 📫 How to reach me **ramsesramirezvallejo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rams%C3%A9s-ram%C3%ADrez-vallejo-701367229/](https://www.linkedin.com/in/rams%C3%A9s-ram%C3%ADrez-vallejo-701367229/)
+- 📄 Know about my experiences [Here](https://www.linkedin.com/in/rams%C3%A9s-ram%C3%ADrez-vallejo-701367229/)
 
 - ⚡ Fun fact **I love dancing latin rythms just like Salsa, Cumbia and Bachata**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramsés ramírez vallejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramsés ramírez vallejo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rams%C3%A9s-ram%C3%ADrez-vallejo-701367229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramsés ramírez vallejo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
