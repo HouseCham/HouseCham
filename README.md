@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=housecham&label=Profile%20views&color=0e75b6&style=flat" alt="housecham" /> </p>
 
-- 🔭 I’m currently working on [Bookings](https://github.com/HouseCham/bookings)
+- 🔭 I’m currently working on [GoProjects](https://github.com/HouseCham/GoProjects)
 
 - 🌱 I’m currently learning **Golang**
 
