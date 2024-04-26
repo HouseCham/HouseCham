@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Fullstack Developer from México</h3>
 
 <div style="display: flex; align-items: center; margin-top:50px;">
-    <img src="https://ramsesramva.com/img/ramsesrmz-bg-white.jpg" alt="housecham" width="250" style="margin-right: 20px;" />
+    <img src="https://ramsesramva.com/img/ramsesrmz-bg-white.jpg" alt="housecham" width="250" style="margin-right: 20px; border-radius:999px" />
     <ul style="height: 100%;">
         <li style="font-size: 18px;">🚀 Check out my portfolio webpage <a href="https://ramsesramva.com/" target="_blank">ramsesramva.com</a></li>
         <li style="font-size: 18px;">🔭 I'm currently working on <a href="https://github.com/HouseCham/cerebro" target="_blank">cerebro</a></li>
