@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Fullstack Developer from México</h3>
 
 <div style="display: flex; align-items: center; margin-top:10px;">
-<span style="font-size: 18px">
+<h5 style="font-size: 18px">
     I'm a passionate and ambitious Fullstack Developer fueled by a perpetual thirst for growth, both personally and professionally. With an unwavering love for my craft, I find joy in transforming challenges into innovative solutions that tackle real-life problems.
-</span>
+</h5>
 </div>
 
 <div style="display: flex; align-items: center; margin-top:50px;">
