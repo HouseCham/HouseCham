@@ -3,8 +3,14 @@
 <h1 align="center">Hi 👋, I'm Ramsés Ramírez Vallejo</h1>
 <h3 align="center">A passionate Fullstack Developer from México</h3>
 
+<div style="display: flex; align-items: center; margin-top:10px;">
+<span style="font-size: 18px">
+    I'm a passionate and ambitious Fullstack Developer fueled by a perpetual thirst for growth, both personally and professionally. With an unwavering love for my craft, I find joy in transforming challenges into innovative solutions that tackle real-life problems.
+</span>
+</div>
+
 <div style="display: flex; align-items: center; margin-top:50px;">
-    <img src="https://ramsesramva.com/img/ramsesrmz-bg-white.jpg" alt="housecham" width="250" style="margin-right: 20px; border-radius:999px" />
+    <!-- <img src="https://ramsesramva.com/img/ramsesrmz-bg-white.jpg" alt="housecham" width="250" style="margin-right: 20px; border-radius:999px" /> -->
     <ul style="height: 100%;">
         <li style="font-size: 18px;">🚀 Check out my portfolio webpage <a href="https://ramsesramva.com/" target="_blank">ramsesramva.com</a></li>
         <li style="font-size: 18px;">🔭 I'm currently working on <a href="https://github.com/HouseCham/cerebro" target="_blank">cerebro</a></li>
@@ -16,13 +22,6 @@
         <li style="font-size: 18px;">⚡ Fun fact <strong>I love dancing Latin rhythms like Salsa, Cumbia, and Bachata</strong></li>
     </ul>
 </div>
-
-<div style="display: flex; align-items: center; margin-top:10px;">
-<span style="font-size: 18px">
-    I'm a passionate and ambitious Fullstack Developer fueled by a perpetual thirst for growth, both personally and professionally. With an unwavering love for my craft, I find joy in transforming challenges into innovative solutions that tackle real-life problems.
-</span>
-</div>
-
 
 <h2 align="left" style="margin-top:50px;">Connect with me:</h3>
 <p align="left">
